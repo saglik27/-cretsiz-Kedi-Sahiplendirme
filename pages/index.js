@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="istiyorsanız? Güvenlik ayarlarınıza bir göz atın:" />
+        <Header title="Anydesk nedir - ne işe yarar - anydesk dosya aktarımı" />
         <p className="description">
           Get started by editihhhng <code>pagehhhs/index.js</code>
         </p>
