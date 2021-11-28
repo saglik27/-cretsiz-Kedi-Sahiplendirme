@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="istiyorsanız? Güvenlik ayarlarınıza bir göz atın: Katılımsız erişim için bir parola ve iki faktörlü kimlik doğrulama ayarlayabilirsiniz . Bu şekilde, oturumun uzak taraf tarafından manuel olarak kabul edilmesi gerekmez." />
         <p className="description">
-          Get started by editihhhng <code>pages/index.js</code>
+          Get started by editihhhng <code>pagehhhs/index.js</code>
         </p>
       </main>
 
