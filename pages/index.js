@@ -17,6 +17,10 @@ export default function Home() {
 
 Ya evdeyseniz, ancak oturum isteğini kabul edecek kimsenin olmadığı ofiste iş bilgisayarınıza gözetimsiz olarak erişmek istiyorsanız? Güvenlik ayarlarınıza bir göz atın: Katılımsız erişim için bir parola ve iki faktörlü kimlik doğrulama ayarlayabilirsiniz . Bu şekilde, oturumun uzak taraf tarafından manuel olarak kabul edilmesi gerekmez. kaynak: https://takdio.com/anydesk-nedir-nasil-kullanilir/
         </p>
+    <body>
+    deneme
+    </body>
+    
       </main>
 
       <Footer />
